@@ -1,0 +1,1 @@
+/etc/default/ufw上でIPV6=noにする
