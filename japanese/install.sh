@@ -1,0 +1,1 @@
+sudo apt install fcitx-mozc -y
