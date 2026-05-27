@@ -1,1 +1,0 @@
-https://note.com/oyasai123/n/nbae61e5f59d7
